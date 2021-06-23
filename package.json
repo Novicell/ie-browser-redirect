@@ -1,0 +1,11 @@
+{
+  "name": "@novicell/ie-browser-redirect",
+  "version": "1.0.1",
+  "description": "Present user with the overlay message built by Microsoft stating that the website is not suited for the Internet Explorer. If the user accepts, they get redirected to the same website just within Microsoft Edge",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Novicell DK",
+  "license": "MIT"
+}
